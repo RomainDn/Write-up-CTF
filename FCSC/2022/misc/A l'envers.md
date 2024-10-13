@@ -1,3 +1,5 @@
+Difficulté : intro
+
 **Enoncée :**
 Connectez-vous au service distant et pour chaque chaîne de caractères reçue, vous devez renvoyer la chaîne de caractères contenant les caractères dans l’ordre inverse.
 
