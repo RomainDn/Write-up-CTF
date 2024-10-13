@@ -1,3 +1,5 @@
+Difficulté : intro
+
 Cette épreuve vous propose de déchiffrer un message chiffré avec la méthode inventée par [Blaise de Vigénère](https://fr.wikipedia.org/wiki/Chiffre_de_Vigen%C3%A8re). La clé est `FCSC` et le message chiffré est :
 
 ```
