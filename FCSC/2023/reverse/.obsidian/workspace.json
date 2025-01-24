@@ -11,26 +11,10 @@
             "id": "6f299290ca9f2e68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Aaarg.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20241013190735.png"
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "668b96406ebb5fba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "03fc8c85792c91e5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aaarg.md",
+                "file": "Pasted image 20241013190735.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aaarg.md",
+                "file": "Pasted image 20241013190735.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aaarg.md"
+                "file": "Pasted image 20241013190735.png"
               }
             }
           }
@@ -160,8 +144,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f299290ca9f2e68",
+  "active": "ed5ec77331f57f6c",
   "lastOpenFiles": [
+    "Untitled",
+    "Untitled.canvas",
     "Pasted image 20241013190735.png",
     "Pasted image 20241013190553.png",
     "Aaarg.md"
